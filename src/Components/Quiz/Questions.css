@@ -1,0 +1,39 @@
+.questionaire{
+    padding: 2% 8%;
+}
+
+
+.questionHeading{
+    font-size: 2.3rem;
+    text-align: center;
+}
+
+
+.answers{
+    padding: 3%;
+}
+
+
+.heroHead {
+    font-family: "Mochiy Pop P One", sans-serif;
+    font-size: 2.5rem;
+    padding: 20px 20%;
+  }
+  
+  .heroFeature,
+  .heroFeature2 {
+    padding: 0% 1%;
+    font-family: "Ubuntu", sans-serif;
+  }
+  
+  .heroFeature {
+    border-right: 2px solid black;
+  }
+  
+  .LinkTag {
+    text-decoration: none;
+  }
+  
+  .heroImage {
+    width: 90%;
+  }
